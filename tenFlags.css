@@ -1,0 +1,164 @@
+/* Commit  for push changes */
+#mainContainer{
+    width: 90vw;
+    height: 90vh;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+#country1,#country2,#country3,#country4,#country5,#country6,#country7,#country8,#country9,#country10{
+    width: 25vw;
+    height: 20vh;
+    border: 1px solid black;
+}
+#country1_1{
+    width: 100%;
+    height: 50%;
+    background-color:red;
+}
+#country2_1{
+    width: 100%;
+    height: 50%;
+    background-color:white;
+}
+#country2_2{
+    width: 100%;
+    height: 50%;
+    background-color:red;
+}
+#country3{
+    display: flex;
+    flex-direction: row;
+}
+#country3_1{
+    width: 33.3%;
+    height: 100%;
+    background-color:green;
+}
+#country3_2{
+    width: 33.3%;
+    height: 100%;
+    background-color:white;
+}
+#country3_3{
+    width: 33.3%;
+    height: 100%;
+    background-color:red;
+}
+#country4{
+    display: flex;
+    flex-direction: row;
+}
+#country4_1{
+    width: 33.3%;
+    height: 100%;
+    background-color:blue;
+}
+#country4_2{
+    width: 33.3%;
+    height: 100%;
+    background-color:white;
+}
+#country4_3{
+    width: 33.3%;
+    height: 100%;
+    background-color:red;
+}
+#country5_1{
+    width: auto;
+    height: 7vh;
+    background-color: red;
+}
+#country5_2{
+    width: auto;
+    height: 7vh;
+    background-color: white;
+}
+#country5_3{
+    width: auto;
+    height: 7vh;
+    background-color:blue;
+}
+#country6_1{
+    width: auto;
+    height: 7vh;
+    background-color: white;
+}
+#country6_2{
+    width: auto;
+    height: 7vh;
+    background-color:blue;
+}
+#country6_3{
+    width: auto;
+    height: 7vh;
+    background-color: red;
+}
+#country7_1{
+    width: auto;
+    height: 7vh;
+    background-color: red;
+}
+#country7_2{
+    width: auto;
+    height: 7vh;
+    background-color: yellow;
+}
+#country7_3{
+    width: auto;
+    height: 7vh;
+    background-color:green;
+}
+#country8_1{
+    width: auto;
+    height: 7vh;
+    background-color:black;
+}
+#country8_2{
+    width: auto;
+    height: 7vh;
+    background-color: red;
+}
+#country8_3{
+    width: auto;
+    height: 7vh;
+    background-color: yellow;
+}
+#country9{
+    display: flex;
+    flex-direction: row;
+}
+#country9_1{
+    width: 33.3%;
+    height: 100%;
+    background-color: green;
+}
+#country9_2{
+    width: 33.3%;
+    height: 100%;
+    background-color: white;
+}
+#country9_3{
+    width: 33.3%;
+    height: 100%;
+    background-color: orange;
+}
+#country10{
+    display: flex;
+    flex-direction: row;
+}
+#country10_1{
+    width: 33.3%;
+    height: 100%;
+    background-color: red;
+}
+#country10_2{
+    width: 33.3%;
+    height: 100%;
+    background-color: yellow;
+}
+#country10_3{
+    width: 33.3%;
+    height: 100%;
+    background-color: green
+}
